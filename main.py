@@ -49,8 +49,8 @@ TOKEN = BOT_TOKEN  # Gumawa ng alias para hindi mag-error ang code sa baba
 bot = telebot.TeleBot(BOT_TOKEN, num_threads=30)
 
 # > Admin ID Here - Change the 123456789 below -
-ADMIN_IDS = [7861730285]
-OWNER_ID = 7861730285
+ADMIN_IDS = [8739659081, 7861730285]
+OWNER_ID = 8739659081
 
 DATABASE_FILE = "database.db"
 
